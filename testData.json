@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "name": "Ram",
+      "score": 80,
+      "marks": [
+        70,
+        80,
+        50
+      ]
+    },
+    {
+      "name": "Hari",
+      "score": 90,
+      "marks": [
+        50,
+        90,
+        60
+      ]
+    },
+    {
+      "name": "Sita",
+      "score": 80,
+      "marks": [
+        75,
+        80,
+        60
+      ]
+    },
+    {
+      "name": "Gita",
+      "score": 60,
+      "marks": [
+        50,
+        40,
+        60
+      ]
+    }
+  ]
+}
